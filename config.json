@@ -1,0 +1,15 @@
+{
+  "Cache": {
+    "Size": "4",
+    "Strategy": "LRU"
+  },
+  "ContentStore": {
+    "Alpha": "1.2",
+    "Size": "8",
+    "MeanTimeBetweenArrivals": "3.0"
+  },
+  "Simulator": {
+    "Duration": "50000.0",
+    "nExperiments": "30"
+  }
+}
